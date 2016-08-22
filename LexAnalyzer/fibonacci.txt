@@ -1,0 +1,21 @@
+void fibonacci(int limit)
+{
+	
+	print(result);
+	while(i<limit)
+    	{
+    		print(", ");
+	        result = term1 + term2;
+        	print(result);
+	        term1 = term2;
+	        term2 = result;
+	        i++;
+	}
+}
+main
+{
+	int limit  	
+  	limit = input();
+  		
+  	fibonacci(limit);
+}
